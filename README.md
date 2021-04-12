@@ -19,7 +19,7 @@ The ‘Face Recognition face-api’ directory contains the above-shown files. Th
 # Run the Project
 
 * Clone the repositary
-` git clone https://github.com/veerbm/face-dr-api.git`
+` git clone https://github.com/veerbm/face-dr-1-faceapi-js.git`
 
 * Open the index.html file in a browser
 
